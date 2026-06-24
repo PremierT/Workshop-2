@@ -1,4 +1,4 @@
-let age: number = "77";
+let age: number = 77;
 console.log("Age: %d",age);
 if(age > 60){
     console.log("Movie price is 7$.");
